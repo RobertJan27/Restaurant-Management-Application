@@ -1,0 +1,4 @@
+Order{Orderid=56, Clientid=1, OrderDate='20/02/2001', hour=11}
+Order{Orderid=233, Clientid=1, OrderDate='21/04/2019', hour=16}
+Order{Orderid=142, Clientid=4, OrderDate='15/10/2001', hour=13}
+Order{Orderid=783, Clientid=5, OrderDate='23/07/2022', hour=13}
